@@ -5,7 +5,7 @@ var config = require ('./config.js');
 var T = new Twit(config);
 
 var tweet = {
-	status: '#This is a make or break moment for #Ethiopia #Oromo'
+	status: '#Lemma #Megersa: Woyane is falling and #Ethiopia is calling. Wake up, OPDO.'
 }
 
 T.post('statuses/update', tweet, twitted);
