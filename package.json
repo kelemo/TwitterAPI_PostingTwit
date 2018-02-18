@@ -1,0 +1,21 @@
+{
+  "name": "twitter",
+  "version": "1.0.0",
+  "description": "Getting twit from Twitter.",
+  "main": "config.js",
+  "scripts": {
+    "start": "node twitget.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Oromo",
+    "Oromia",
+    "Ethiopia",
+    "Oromiya"
+  ],
+  "author": "Kadiro E",
+  "license": "ISC",
+  "dependencies": {
+    "twit": "^2.2.9"
+  }
+}
