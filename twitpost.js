@@ -18,4 +18,3 @@ function twitted(err, data, response){
 	}
 	
 	}
-};
